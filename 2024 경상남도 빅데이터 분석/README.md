@@ -27,8 +27,8 @@
 ## 4. 외관 생성 - LoRA-Stable Diffusion
 참고 코드: https://github.com/cloneofsimo/lora
 <figure>
-  <img src="https://github.com/user-attachments/assets/aebb0269-caaf-45c0-955e-7655d22bf567" alt="외관 이미지 생성" width="600"/>
-  <figcaption>숙박업소 제안</figcaption>
+  <img src="https://github.com/user-attachments/assets/aebb0269-caaf-45c0-955e-7655d22bf567" alt="외관 이미지 생성" width="300"/>
+  숙박업소 제안</figcaption>
 </figure>
 
 
