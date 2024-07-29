@@ -24,7 +24,17 @@
 ❍ MCLP 기법을 활용한 입지 선정
 - 입지 후보지
 
-## 4. 기대 효과
+## 4. 외관 생성 - LoRA-Stable Diffusion
+참고 코드: https://github.com/cloneofsimo/lora
+![Uploading 351595671-ec73b6ff-abba-4ed8-a03f-1a66540b775b.png…]()
+![351595698-6ead664d-a281-4434-8d07-d2f861870e2a](https://github.com/user-attachments/assets/7c96d0a2-9bb0-40ed-9abc-f6e77c9c35d2)
+![351595755-9c3a6db3-c854-41c1-a972-9053e4691aa6](https://github.com/user-attachments/assets/6462daa7-c876-467d-ace3-3eb54ab1d5d1)
+![351595791-21ebdc04-0ff0-47c0-87af-c621b8cc9eac](https://github.com/user-attachments/assets/14397e40-753b-4a01-9e12-c865643b0d38)
+
+
+
+
+## 5. 기대 효과
 ❍ 신규 관광지 개발로 인한 관광 수입 증대
 
 ❍ 관광지 주변 상권 발달
