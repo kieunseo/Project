@@ -31,8 +31,6 @@
   <figcaption>숙박업소 제안</figcaption>
 </figure>
 <figure>
-  ![image](https://github.com/user-attachments/assets/1a806215-5aac-40a8-8f55-4b0f9aeccfe0)
-
   <img src="https://github.com/user-attachments/assets/1a806215-5aac-40a8-8f55-4b0f9aeccfe0" alt="외관 이미지 생성" width="300"/>
   <figcaption>카페 제안</figcaption>
 </figure>
