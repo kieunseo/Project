@@ -30,7 +30,11 @@
   <img src="https://github.com/user-attachments/assets/aebb0269-caaf-45c0-955e-7655d22bf567" alt="외관 이미지 생성" width="300"/>
   <figcaption>숙박업소 제안</figcaption>
 </figure>
-
+![image](https://github.com/user-attachments/assets/7af3b850-2349-4772-8b6e-df404e4c57c8)
+<figure>
+  <img src="[https://github.com/user-attachments/assets/aebb0269-caaf-45c0-955e-7655d22bf567](https://github.com/user-attachments/assets/7af3b850-2349-4772-8b6e-df404e4c57c8)" alt="외관 이미지 생성" width="300"/>
+  <figcaption>숙박업소 제안</figcaption>
+</figure>
 
 ## 5. 기대 효과
 ❍ 신규 관광지 개발로 인한 관광 수입 증대
